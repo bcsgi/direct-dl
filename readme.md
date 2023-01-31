@@ -2,3 +2,6 @@
 
 
 3.3 and onwards can be downloaded as one large file or in 5 parts.
+
+
+Source for GenshinData found here https://github.com/Sycamore0/GenshinData
