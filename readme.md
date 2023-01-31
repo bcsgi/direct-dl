@@ -5,3 +5,8 @@
 
 
 Source for GenshinData found here https://github.com/Sycamore0/GenshinData
+
+
+Demux cutscenes with https://github.com/ToaHartor/GI-cutscenes
+
+GUI extension here https://github.com/SuperZombi/GICutscenesUI
